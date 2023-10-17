@@ -1,0 +1,5 @@
+Alumno1 = float(input("Ingrese la Calificacion del alumno 1"))
+Alumno2 = float(input("Ingrese la Calificacion del alumno 1"))
+Alumno3 = float(input("Ingrese la Calificacion del alumno 1"))
+Alumno4 = float(input("Ingrese la Calificacion del alumno 1"))
+Alumno1 = float(input("Ingrese la Calificacion del alumno 1"))

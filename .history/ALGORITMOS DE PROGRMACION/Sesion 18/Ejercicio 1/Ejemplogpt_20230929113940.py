@@ -13,7 +13,7 @@ def calculadora_financiera():
                 interes = (capital_anterior * tasa_interes_anual) / 12
                 capital_final = capital_anterior + interes
 
-                print(f"{mes}\t{capital_anterior:.2f}\t\t{interes:.2f}\t\t{    capital_final:.2f}")
+                print(f"{mes}\t{capital_anterior:.2f}\t\t{ interes:.2f}\t\t{    capital_final:.2f}")
 
                 capital_inicial = capital_final
 
